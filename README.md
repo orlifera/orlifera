@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orlando Ferazzani</h1>
 <h3 align="center">A passionate frontend developer and scubadiver from Italy</h3>
 
-- 🔭 I’m currently working on [TecWeb project](github.com/orlifera/TecWeb)
+- 🔭 I’m currently working on a super secret Project for a cool person. Language used: Typescript, with next.js framwork. 
+
+- I have just completed [TecWeb project](https://github.com/orlifera/TecWeb)
 
 - 🌱 I’m currently learning **Frameworks and fullstack development**
 
