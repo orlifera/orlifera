@@ -5,7 +5,7 @@
 
 - I have just completed [TecWeb project](https://github.com/orlifera/TecWeb)
 
-- 🌱 I’m currently learning **Frameworks and fullstack development**
+- 🌱 I’m currently learning **Frameworks and fullstack development, in particular: TSX, next.js and Go**
 
 - 👨‍💻 All of my projects are available at [github.com/orlifera](github.com/orlifera)
 
