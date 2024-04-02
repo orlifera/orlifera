@@ -24,3 +24,5 @@
 
 ![orlifera's Stats](https://github-readme-stats.vercel.app/api?username=orlifera&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br/>
 ![orlifera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orlifera&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oferazzani125&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
