@@ -13,14 +13,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orlifera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orlifera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=orlifera&theme=maroongold&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=orlifera&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr></hr>
-<h2>Check the songs I like</h2>
+<h2>Check out the songs I like</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oferazzani125&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
