@@ -13,8 +13,6 @@ These are all the technologies I have used during projects or university courses
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,css,discord,git,github,githubactions,html,instagram,js,latex,linux,md,mysql,netlify,nextjs,notion,npm,powershell,py,react,tailwind,typescript,vite,vscode&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=orlifera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orlifera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orlifera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
