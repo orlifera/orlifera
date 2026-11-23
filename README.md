@@ -15,9 +15,3 @@ These are all the technologies I have used during projects or university courses
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orlifera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<hr></hr>
-<h2>Check out the songs I like</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oferazzani125&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=oferazzani125&redirect=true)
