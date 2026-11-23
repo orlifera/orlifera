@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## A passionate frontend developer and scubadiver from Italy<br>
-🔭 I’m currently studying for a super cool project that connects my two passion, scuba diving and web development. Language used: Typescript, with next.js framwork.<br><br>🌱 I’m currently learning Frameworks and fullstack development, in particular: TSX, next.js and Go<br><br>👨‍💻 All of my projects are available at github.com/orlifera<br><br>📫 How to reach me orlandovm.ferazzani@gmail.com<br><br>⚡ Fun fact I have my own business that specializes in the sale of Custom Gaming PCs and Mechanical Keyboards. Check it out at [mltech.store](https://mltech.store)
+🔭 I’m currently studying for a super cool project that connects my two passion, scuba diving and web development. Language used: Typescript, with next.js framwork.<br><br>🌱 Currently working as a fullstack developer  @Parkito, an italian mobility startup<br><br>👨‍💻 All of my projects are available at github.com/orlifera<br><br>📫 How to reach me orlandovm.ferazzani@gmail.com<br><br>⚡ Fun fact I have my own business that specializes in the sale of Custom Gaming PCs and Mechanical Keyboards. Check it out at [mltech.store](https://mltech.store)
 
 
 ## 🌐 Socials:
